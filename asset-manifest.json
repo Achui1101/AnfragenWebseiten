@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/AnfragenWebseiten/static/css/main.724a67dc.css",
+    "main.js": "/AnfragenWebseiten/static/js/main.eeecbd06.js",
+    "static/js/787.1cd257cd.chunk.js": "/AnfragenWebseiten/static/js/787.1cd257cd.chunk.js",
+    "static/media/bg.jpg": "/AnfragenWebseiten/static/media/bg.379c9258dc8baac821b7.jpg",
+    "static/media/Archivo-Medium.ttf": "/AnfragenWebseiten/static/media/Archivo-Medium.e97cd30e553ba9fd0a65.ttf",
+    "static/media/FensterHolz.png": "/AnfragenWebseiten/static/media/FensterHolz.79d91778d9fc476a606c.png",
+    "static/media/keinemontage.png": "/AnfragenWebseiten/static/media/keinemontage.1569d5dfd73347abca0b.png",
+    "static/media/gewerbe.png": "/AnfragenWebseiten/static/media/gewerbe.e2c682ec2fd196fcac3b.png",
+    "static/media/no.png": "/AnfragenWebseiten/static/media/no.4e6681abaf15dd31f247.png",
+    "static/media/privat.png": "/AnfragenWebseiten/static/media/privat.b5f862d5b44df3ea6144.png",
+    "static/media/montage.png": "/AnfragenWebseiten/static/media/montage.45d35df01ac02508eccc.png",
+    "static/media/qm.png": "/AnfragenWebseiten/static/media/qm.565303f01619ccc81b22.png",
+    "static/media/FensterAlu.png": "/AnfragenWebseiten/static/media/FensterAlu.5fbb013cccc7ca614b46.png",
+    "static/media/logo.svg": "/AnfragenWebseiten/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/AnfragenWebseiten/index.html",
+    "static/media/index.cjs": "/AnfragenWebseiten/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.724a67dc.css.map": "/AnfragenWebseiten/static/css/main.724a67dc.css.map",
+    "main.eeecbd06.js.map": "/AnfragenWebseiten/static/js/main.eeecbd06.js.map",
+    "787.1cd257cd.chunk.js.map": "/AnfragenWebseiten/static/js/787.1cd257cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.724a67dc.css",
+    "static/js/main.eeecbd06.js"
+  ]
+}
