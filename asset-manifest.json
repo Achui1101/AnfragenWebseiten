@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AnfragenWebseiten/static/css/main.c132760e.css",
-    "main.js": "/AnfragenWebseiten/static/js/main.aadbe8c1.js",
+    "main.js": "/AnfragenWebseiten/static/js/main.5df80ead.js",
     "static/js/787.1cd257cd.chunk.js": "/AnfragenWebseiten/static/js/787.1cd257cd.chunk.js",
     "static/media/unterstutzung.gif": "/AnfragenWebseiten/static/media/unterstutzung.d35350dd6cfe1c3525a6.gif",
     "static/media/kalender31.gif": "/AnfragenWebseiten/static/media/kalender31.0498f20a91c5c4c981b1.gif",
@@ -31,11 +31,11 @@
     "static/media/Archivo-Medium.ttf": "/AnfragenWebseiten/static/media/Archivo-Medium.e97cd30e553ba9fd0a65.ttf",
     "index.html": "/AnfragenWebseiten/index.html",
     "main.c132760e.css.map": "/AnfragenWebseiten/static/css/main.c132760e.css.map",
-    "main.aadbe8c1.js.map": "/AnfragenWebseiten/static/js/main.aadbe8c1.js.map",
+    "main.5df80ead.js.map": "/AnfragenWebseiten/static/js/main.5df80ead.js.map",
     "787.1cd257cd.chunk.js.map": "/AnfragenWebseiten/static/js/787.1cd257cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c132760e.css",
-    "static/js/main.aadbe8c1.js"
+    "static/js/main.5df80ead.js"
   ]
 }
